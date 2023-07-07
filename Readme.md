@@ -20,6 +20,3 @@ Languages/Skills used:
 6. AJAX
 7. jQuery
 8. JSON
-
-
-
